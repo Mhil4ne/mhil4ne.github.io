@@ -1,7 +1,7 @@
 ---
 title: HackThebox - Archetype
 date: 2023-05-29
-categories: [Hackthebox, HTB-Easy]
+categories: [Hackthebox, HTB-VeryEasy]
 tags: [Starting Point, Windows]
 image:
   path: ../../assets/img/post/archetype/archetype.png
