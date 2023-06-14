@@ -20,7 +20,7 @@ timezone: America/Santo_Domingo
 
 title: Mhil4ne # the main title
 
-tagline: Ciberseguridad Y CTF's # it will display as the sub-title
+tagline: Writeups, CTF's & Apuntes de Pentesting # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Un Blog Minimalista De Ciberseguridad.
@@ -80,7 +80,7 @@ theme_mode: dark # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: ./assets/pro3.png
+avatar: ./assets/profile.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
