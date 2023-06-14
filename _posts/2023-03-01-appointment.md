@@ -1,8 +1,8 @@
 ---
-title: HackThebox - Appointment
+title: Appointment Writeup
 date: 2023-05-17 
-categories: [Hackthebox, HTB-VeryEasy]
-tags: [Starting Point, Linux]
+categories: [Writeups, Hackthebox]
+tags: [Starting Point, Linux, Very Easy]
 image:
   path: ../../assets/img/post/appointment/appointment.png
   width: 800

@@ -1,8 +1,8 @@
 ---
-title: HackTheBox - Crocodile
+title: Crocodile Writeup
 date: 2023-05-21
-categories: [Hackthebox, HTB-VeryEasy]
-tags: [Starting Point, Linux]
+categories: [Writeups, Hackthebox]
+tags: [Starting Point, Linux, Very Easy]
 image:
   path: ../../assets/img/post/crocodile/crocodile.jpg
   width: 800

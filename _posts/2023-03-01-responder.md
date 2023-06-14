@@ -1,8 +1,8 @@
 ---
-title: HackThebox - Responder
+title: Responder Writeup
 date: 2023-05-24 
-categories: [Hackthebox, HTB-VeryEasy]
-tags: [Starting Point, Windows]
+categories: [Writeups, Hackthebox]
+tags: [Starting Point, Windows, Very Easy]
 image:
   path: ../../assets/img/post/responder/responder.png
   width: 800
