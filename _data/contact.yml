@@ -6,22 +6,18 @@
 - type: twitter
   icon: "fab fa-twitter"
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
-
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+- type: hackthebox
+  icon: "fas fa-cube"
+  url: "https://app.hackthebox.com/profile/1022508"
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
 #
-# - type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
+- type: youtube
+  icon: "fa-brands fa-youtube"   # icons powered by <https://fontawesome.com/>
+  url:  "https://www.youtube.com/@Mhil4ne"                  # Fill with your Linkedin homepage
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
