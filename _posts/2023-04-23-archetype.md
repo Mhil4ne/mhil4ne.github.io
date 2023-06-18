@@ -3,13 +3,8 @@ title: Archetype Writeup
 date: 2023-05-29
 categories: [Writeups, Hackthebox]
 tags: [Starting Point, Windows, Very Easy]
-image:
-  path: ../../assets/img/post/archetype/archetype.png
-  width: 800
-  height: 500
-  alt:
 ---
-
+![img](/assets/img/post/archetype/archetype.png)
 En este articulo vamos a estar vulnerando la maquina archetype de la plaforma Hackthebox.
 
 ## Reconicimiento

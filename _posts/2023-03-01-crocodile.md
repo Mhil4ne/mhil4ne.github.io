@@ -3,13 +3,8 @@ title: Crocodile Writeup
 date: 2023-05-21
 categories: [Writeups, Hackthebox]
 tags: [Starting Point, Linux, Very Easy]
-image:
-  path: ../../assets/img/post/crocodile/crocodile.jpg
-  width: 800
-  height: 500
-  alt:
 ---
-
+![img](/assets/img/post/crocodile/crocodile.jpg)
 Resolucion de la maquina crocodile del Starting Point de HackThebox. 
 
 ## Reconocimiento 

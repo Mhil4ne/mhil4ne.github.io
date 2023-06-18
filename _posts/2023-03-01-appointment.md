@@ -3,12 +3,8 @@ title: Appointment Writeup
 date: 2023-05-17 
 categories: [Writeups, Hackthebox]
 tags: [Starting Point, Linux, Very Easy]
-image:
-  path: ../../assets/img/post/appointment/appointment.png
-  width: 800
-  height: 500
-  alt:
 ---
+![img](/assets/img/post/appointment/appointment.png)
 
 En este articulo vamos a estar resolviendo la maquina appointment del starting point de HackTheBox  
 

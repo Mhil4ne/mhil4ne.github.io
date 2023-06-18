@@ -3,13 +3,8 @@ title: Responder Writeup
 date: 2023-05-24 
 categories: [Writeups, Hackthebox]
 tags: [Starting Point, Windows, Very Easy]
-image:
-  path: ../../assets/img/post/responder/responder.png
-  width: 800
-  height: 500
-  alt: Banner responder
 ---
-
+![img](/assets/img/post/responder/responder.png)
 
 En este articulo vamos a estar resolviendo la maquina Responder de Htb.
 
