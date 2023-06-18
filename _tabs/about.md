@@ -11,6 +11,11 @@ Hola, mi nombre es Jose Milane y soy un joven que estudia Pentesting de forma au
 
 Tambien mas apuntes relacionados con el pentesting y explotacion de vulnerabilidades en entornos controlados.
 
+## Certificaciones
+
+[Personalizacion De Linux](https://mhil4ne.github.io/certs/Personalizacion-de-linux.pdf)
+
+
 ## Contenido
 En este blog voy a aprediendo y creando articulos de los siguientes temas:
 
