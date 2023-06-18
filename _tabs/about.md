@@ -13,7 +13,14 @@ Tambien mas apuntes relacionados con el pentesting y explotacion de vulnerabilid
 
 ## Certificaciones
 
-[Personalizacion De Linux](https://mhil4ne.github.io/certs/Personalizacion-de-linux.pdf)
+
+[Web Application Hacking and Bug Bounty] (https://mhil4ne.github.io/certs/web-app-hacking.pdf)
+
+[Ethical Hacking - Bug Bounty] (bug-bounty.pdf)
+
+[Personalizacion De Linux (Hack4u)](https://mhil4ne.github.io/certs/Personalizacion-de-linux.pdf)
+
+
 
 
 ## Contenido
