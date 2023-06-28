@@ -5,7 +5,7 @@ order: 4
 ---
 
 
-![profile](/assets/profile.png){: width="300" height="200"} 
+![profile](/assets/profile.webp){: width="300" height="200"} 
 
 Hello, my name is Jose Milane and I am a young man who studies Pentesting in a self-taught way, In this blog, I will be publishing resolution of machines from different platforms, such as hackthebox, vulnhub, hackmyvm, among others.
 
