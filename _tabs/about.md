@@ -21,20 +21,6 @@ Also more notes related to pentesting and exploiting vulnerabilities in controll
 [Personalizacion De Linux (Hack4u)](https://mhil4ne.github.io/certs/Personalizacion-de-linux.pdf)
 
 
-
-
-## Content
-In this blog I will be writing and creating articles on the following topics:
-
-- Writeups -> Of machines (vulnerable operating systems) of different platforms.
-- SQLi (SQL injection)
-- BOF (Buffer Overflow)
-- CSRF (Cross Site Request Forgery)
-- SSRF (Server Side Request Forgery)
-- AD (Active Directory)
-- Linux & Windows Privilege escalation
-- Offensive Python scripting
-
 ## Objectives
 
 My goal is to reach a professional level, in the area of pentesting and to complete some known certifications.
