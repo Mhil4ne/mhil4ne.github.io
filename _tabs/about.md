@@ -7,11 +7,11 @@ order: 4
 
 ![profile](/assets/profile.png){: width="300" height="200"} 
 
-Hola, mi nombre es Jose Milane y soy un joven que estudia Pentesting de forma autodicta, En este blog, voy a estar publicando resolucion de maquinas de diferentes plataformas, como hackthebox, vulnhub, hackmyvm, entre otras.
+Hello, my name is Jose Milane and I am a young man who studies Pentesting in a self-taught way, In this blog, I will be publishing resolution of machines from different platforms, such as hackthebox, vulnhub, hackmyvm, among others.
 
-Tambien mas apuntes relacionados con el pentesting y explotacion de vulnerabilidades en entornos controlados.
+Also more notes related to pentesting and exploiting vulnerabilities in controlled environments.
 
-## Certificaciones
+## Certifications
 
 
 [Web Application Hacking and Bug Bounty](https://mhil4ne.github.io/certs/web-app-hacking.pdf)
@@ -23,10 +23,10 @@ Tambien mas apuntes relacionados con el pentesting y explotacion de vulnerabilid
 
 
 
-## Contenido
-En este blog voy a aprediendo y creando articulos de los siguientes temas:
+## Content
+In this blog I will be writing and creating articles on the following topics:
 
-- Writeups -> De Maquinas(Sistemas operativos vulnerables) de diferentes plataformas.
+- Writeups -> Of machines (vulnerable operating systems) of different platforms.
 - SQLi (SQL injection)
 - BOF (Buffer Overflow)
 - CSRF (Cross Site Request Forgery)
@@ -35,9 +35,9 @@ En este blog voy a aprediendo y creando articulos de los siguientes temas:
 - Linux & Windows Privilege escalation
 - Offensive Python scripting
 
-## Objetivo
+## Objectives
 
-Mi objetivo es llegar a un nivel profesional, en el area de pentesting y lograr completar algunas certificaciones conocidas.
+My goal is to reach a professional level, in the area of pentesting and to complete some known certifications.
 
 - OSCP
 - OSEP
